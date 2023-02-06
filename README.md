@@ -8,6 +8,6 @@ It provides erros weighted pooled_mean, weighted uncertainty, chi-square, normal
 as defined in:
 
 Robert J. DiNapoli, Scott M. Fitzpatrick, Matthew F. Napolitano, Torben C. Rick, Jessica H. Stone, Nicholas P. Jew,
-Marine reservoir corrections for the Caribbean demonstrate high intra- and inter-island variability in local reservoir offsets,
-Quaternary Geochronology, Volume 61, 2021
+"Marine reservoir corrections for the Caribbean demonstrate high intra- and inter-island variability in local reservoir offsets",
+*Quaternary Geochronology*, Volume 61, 2021
 https://doi.org/10.1016/j.quageo.2020.101126.
