@@ -2,7 +2,7 @@
 
 Complementary code to the paper:
 
-Santana Cabrera et al. (submitted): Evaluating the dating of the initial human colonization of the Canary Islands 
+Santana Cabrera et al. (submitted): *Evaluating the dating of the initial human colonization of the Canary Islands*
 
 It provides erros weighted pooled_mean, weighted uncertainty, chi-square, normalised chi-square, degrees of freedom, critical, outliers and uncertainty values using the **w_mean_fun**
 as defined in:
