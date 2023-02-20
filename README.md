@@ -1,8 +1,8 @@
-# The-initial-human-colonization-of-the-Canary-Islands
+# The chronology of the human colonization of the Canary Islands
 
 Complementary code to the paper:
 
-Santana Cabrera et al. (submitted): *Evaluating the dating of the initial human colonization of the Canary Islands*
+Santana Cabrera et al. (submitted): *The chronology of the human colonization of the Canary Islands*
 
 It provides error weighted pooled mean, pooled standard deviation, t chi-squared, normalised chi-square and delta r with external variance values using the **w_mean_fun** as defined in:
 
