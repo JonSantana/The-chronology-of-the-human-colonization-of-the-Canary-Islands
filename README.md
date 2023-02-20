@@ -1,4 +1,4 @@
-# Evaluating-the-dating-of-the-initial-human-colonization-of-the-Canary-Islands
+# The-initial-human-colonization-of-the-Canary-Islands
 
 Complementary code to the paper:
 
