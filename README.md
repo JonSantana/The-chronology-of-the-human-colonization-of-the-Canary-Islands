@@ -2,7 +2,7 @@
 
 Complementary code to the paper:
 
-Santana Cabrera et al. (submitted): *The chronology of the human colonization of the Canary Islands* , Proceedings of the National Academy of Sciences 2024 Vol. 121 Issue 28 Pages e2302924121
+Santana Cabrera et al. (2024): *The chronology of the human colonization of the Canary Islands* , Proceedings of the National Academy of Sciences 2024 Vol. 121 Issue 28 Pages e2302924121
 
 It provides error weighted pooled mean, pooled standard deviation, t chi-squared, normalised chi-square and delta r with external variance values using the **w_mean_fun** as defined in:
 
